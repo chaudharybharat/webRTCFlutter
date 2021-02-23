@@ -2,7 +2,7 @@
 
 This is a simple flutter text chat application using `flutter_webrtc`.
 
-[![Demo](https://j.gifs.com/jZDWvv.gif)](https://www.youtube.com/watch?v=e2Vf27yLQaE)
+
 
 ## How to use this demo
 
@@ -14,7 +14,4 @@ This demo does only have the webrtc code with no signaling logic, the signaling 
 - **B** should signal the answer sdp back to **A**
 - **A** should click on set remote and use the answer sdp he got from **B**
 
-## Resources
 
-- [[YouTube] WebRTC Crash Course](https://www.youtube.com/watch?v=FExZvpVvYxA)
-- [flutter-webrtc/flutter-webrtc-demo](https://github.com/flutter-webrtc/flutter-webrtc-demo)
